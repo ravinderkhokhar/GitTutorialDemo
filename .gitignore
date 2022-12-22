@@ -1,0 +1,5 @@
+error.log
+*.log
+/testdir/
+static/testdir
+sql.db
